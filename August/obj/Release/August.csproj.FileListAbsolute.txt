@@ -1,0 +1,8 @@
+c:\users\d.lejn\documents\visual studio 2015\Projects\August\August\obj\Release\August.csprojResolveAssemblyReference.cache
+c:\users\d.lejn\documents\visual studio 2015\Projects\August\August\bin\Release\August.pdb
+c:\users\d.lejn\documents\visual studio 2015\Projects\August\August\obj\Release\August.pdb
+C:\Users\D.Lejn\documents\visual studio 2015\Projects\August\August\obj\Release\August.Properties.Resources.resources
+C:\Users\D.Lejn\documents\visual studio 2015\Projects\August\August\obj\Release\August.csproj.GenerateResource.Cache
+C:\Users\D.Lejn\Documents\Visual Studio 2015\Projects\August\August\bin\Release\August.exe.config
+C:\Users\D.Lejn\Documents\Visual Studio 2015\Projects\August\August\bin\Release\August.exe
+C:\Users\D.Lejn\Documents\Visual Studio 2015\Projects\August\August\obj\Release\August.exe
